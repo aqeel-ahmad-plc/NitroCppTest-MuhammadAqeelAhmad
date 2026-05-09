@@ -3,7 +3,6 @@
 ## Prerequisites
 - CMake 3.10 or higher
 - C++17 compatible compiler (GCC 7+, Clang 5+, MSVC 2017+)
-- Google Test (will be downloaded automatically)
 
 ## Building the Project
 
@@ -19,8 +18,8 @@ cmake --build build --target clean
 
 ```bash
 # Clone the repository (if not already done)
-git clone <repository-url>
-cd NitroCppTest-YourName
+git clone https://github.com/aqeel-ahmad-plc/NitroCppTest-MuhammadAqeelAhmad.git
+cd NitroCppTest-MuhammadAqeelAhmad
 
 # Create build directory (if not exists)
 mkdir build && cd build
